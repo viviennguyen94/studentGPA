@@ -1,0 +1,43 @@
+  MF_DB.MyForm.resources - Embedded, ContainedInManifestFile, 
+  MF_DB.Selection.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly MF_DB, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class MF_DB.Selection: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String selectAdv 'get set' : 
+    System.String selectHours 'get set' : 
+    System.String selectGPA 'get set' : 
+    System.String selectMajor 'get set' : 
+    System.String selectStu 'get set' : 
+    System.String userName 'get set' : 
+  Methods:
+    get_userName(): PrivateScope, Public, HideBySig, SpecialName
+    set_userName(String): PrivateScope, Public, HideBySig, SpecialName
+    get_selectStu(): PrivateScope, Public, HideBySig, SpecialName
+    set_selectStu(String): PrivateScope, Public, HideBySig, SpecialName
+    get_selectMajor(): PrivateScope, Public, HideBySig, SpecialName
+    set_selectMajor(String): PrivateScope, Public, HideBySig, SpecialName
+    get_selectGPA(): PrivateScope, Public, HideBySig, SpecialName
+    set_selectGPA(String): PrivateScope, Public, HideBySig, SpecialName
+    get_selectHours(): PrivateScope, Public, HideBySig, SpecialName
+    set_selectHours(String): PrivateScope, Public, HideBySig, SpecialName
+    get_selectAdv(): PrivateScope, Public, HideBySig, SpecialName
+    set_selectAdv(String): PrivateScope, Public, HideBySig, SpecialName
+Class MF_DB.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+  Selection.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MF_DB.vcxproj -> C:\Users\vivie\Documents\Visual Studio 2015\Projects\MF_DB\x64\Debug\MF_DB.exe
+  MF_DB.vcxproj -> C:\Users\vivie\Documents\Visual Studio 2015\Projects\MF_DB\x64\Debug\MF_DB.pdb (Partial PDB)

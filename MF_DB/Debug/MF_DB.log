@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MF_DB.vcxproj -> C:\Users\vivie\Documents\Visual Studio 2015\Projects\MF_DB 2\Debug\MF_DB.exe
+  MF_DB.vcxproj -> C:\Users\vivie\Documents\Visual Studio 2015\Projects\MF_DB 2\Debug\MF_DB.pdb (Partial PDB)
